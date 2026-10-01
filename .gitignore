@@ -1,0 +1,10 @@
+
+config.json
+credentials.json
+
+api_response.json
+
+last_updated.csv
+notion_data.csv
+
+.DS_Store
